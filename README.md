@@ -1,2 +1,2 @@
-# red-dot-racing-game
-idk
+# synchronousBallMovement
+Ball moving synchronously
